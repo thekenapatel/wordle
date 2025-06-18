@@ -1,16 +1,8 @@
 # Wordle
-
-A clean and minimal **Wordle clone** built with **Next.js** and **TypeScript** — challenge yourself to guess the word in just 6 tries!
+---
 
 ### Live Demo  
 [play wordle here](https://wordhuntgame.vercel.app/)
-
----
-
-## Tech Stack
-- **Next.js**
-- **TypeScript**
-- **Tailwind CSS**
 
 ---
 
@@ -22,8 +14,14 @@ A clean and minimal **Wordle clone** built with **Next.js** and **TypeScript** �
   - 🟥 **Pink** — Correct letter, wrong position  
   - 🟪 **Purple** — Letter not in word
 
----
+--- 
 
+## Tech Stack
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+
+---
 
 # Credits
 Inspired by original [Wordle](https://www.nytimes.com/games/wordle/index.html) game.
