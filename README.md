@@ -2,19 +2,19 @@
 
 A clean and minimal **Wordle clone** built with **Next.js** and **TypeScript** — challenge yourself to guess the word in just 6 tries!
 
-### 🔗 Live Demo  
-👉 [wordhuntgame.vercel.app](https://wordhuntgame.vercel.app/)
+### Live Demo  
+[play wordle here](https://wordhuntgame.vercel.app/)
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Next.js**
 - **TypeScript**
 - **Tailwind CSS**
 
 ---
 
-## 🎮 Game Rules
+## Game Rules
 - Guess the **5-letter word** in **6 tries**.
 - Each guess must be a valid 5-letter word.
 - After each guess, the color of the tiles will change:
