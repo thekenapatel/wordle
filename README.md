@@ -8,8 +8,8 @@
 - Guess the **5-letter word** in **6 tries**.
 - Each guess must be a valid 5-letter word.
 - After each guess, the color of the tiles will change:
-  - 🟦 **Cyan** — Correct letter, correct position  
-  - 🟥 **Pink** — Correct letter, wrong position  
+  - 🟦 **Teal** — Correct letter, correct position  
+  - 🟥 **Rose** — Correct letter, wrong position  
   - 🟪 **Purple** — Letter not in word
 
 
